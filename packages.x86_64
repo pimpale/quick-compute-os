@@ -70,6 +70,7 @@ vulkan-trace
 vulkan-validation-layers
 vulkan-intel
 vulkan-radeon
+spirv-tools
 nvidia
 mesa
 ocl-icd
@@ -78,11 +79,6 @@ opencl-mesa
 opencl-nvidia
 intel-compute-runtime
 glslang
-cuda
-cudnn
 munge
 slurm-llnl
-hwloc
-zlib
-libnl
-openmpi-slurm
+openmpi
